@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software developer from Germany / North Rhine Westphalia, working on PHP enterprise applications at [Fastbolt Schraubengroßhandels GmbH](https://github.com/fastbolt/). Open Source lover, dad of five kids. 
+Software developer from Germany / North Rhine Westphalia, working on PHP enterprise applications at [Fastbolt Schraubengroßhandels GmbH](https://github.com/fastbolt/). Open Source lover, dad of five kids ♥. 
 
 - 🔨 I’m currently working with: PHP, MySQL, Javascript, CSS / LESS / SASS.
 - 🌱 I’m currently learning: [Angular](https://angular.io/)
