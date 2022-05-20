@@ -1,11 +1,20 @@
 ### Hi there 👋
 
+Software developer from Germany / North Rhine Westphalia, working on PHP enterprise applications at [Fastbolt Schraubengroßhandels GmbH](https://github.com/fastbolt/). Open Source lover, dad of five kids. 
+
+- 🔨 I’m currently working with: PHP, MySQL, Javascript, CSS / LESS / SASS.
+- 🌱 I’m currently learning: [Angular](https://angular.io/)
+- 📫 How to reach me: [@dhh0815](https://twitter.com/dhh0815)
+- 😄 Pronouns: he/him
+
+
 <span>
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=dhirtzbruch&count_private=true&show_icons=true&theme=github_dark" />
   </a>
 </span>
 
+<!--
 <span style="position: relative; left: 23px;">
   <a style="all: unset;" href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirtzbruch&theme=github_dark" />
